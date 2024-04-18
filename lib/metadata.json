@@ -1,0 +1,1929 @@
+{
+  "vaultName": "task4",
+  "lastExport": 1713432976245,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Глаз человека/Аккомодация.md",
+    "Глаз человека/Близорукость.md",
+    "Глаз человека/Дальнозоркость.md",
+    "Глаз человека/Расстояние наилучшего зрения.md",
+    "Глаз человека/Строение глаза.md",
+    "Глаз человека/Угол зрения.md",
+    "Глаз человека/README.md",
+    "Линзы. Ход лучей/Виды собирающих и рассеивающих линз.md",
+    "Линзы. Ход лучей/Двояковогнутая линза.md",
+    "Линзы. Ход лучей/Двояковыпуклая линза.md",
+    "Линзы. Ход лучей/README.md",
+    "Оптические приборы/Лупа.md",
+    "Оптические приборы/Микроскоп.md",
+    "Оптические приборы/Невооружённый глаз.md",
+    "Оптические приборы/Труба Галилея.md",
+    "Оптические приборы/Труба Кеплера.md",
+    "Оптические приборы/README.md",
+    "Отражение света/Закон отражения.md",
+    "Отражение света/Плоское зеркало.md",
+    "Отражение света/README.md",
+    "Преломление света/Закон преломления (общий случай).md",
+    "Преломление света/Закон преломления (частный случай).md",
+    "Преломление света/Обратимость световых лучей.md",
+    "Преломление света/Полное внутреннее отражение.md",
+    "Преломление света/README.md",
+    "Световые лучи/Геометрическая тень.md",
+    "Световые лучи/Законы геометрической оптики.md",
+    "Световые лучи/README.md",
+    "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение предмета.md",
+    "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение точки.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение предмета.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение точки.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение предмета.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение точки.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза предмет в фокальной плоскости.md",
+    "Тонкие линзы. Построение изображений/README.md",
+    "Тонкие линзы. Ход лучей/Оптический центр и фокальная плоскость.md",
+    "Тонкие линзы. Ход лучей/Понятие тонкой линзы.md",
+    "Тонкие линзы. Ход лучей/Ход луча через оптический центр.md",
+    "Тонкие линзы. Ход лучей/Ход лучей в рассеивающей линзе.md",
+    "Тонкие линзы. Ход лучей/Ход лучей в собирающей линзе.md",
+    "Тонкие линзы. Ход лучей/README.md",
+    "image/Рисунок1.png",
+    "image/Рисунок2.jpg",
+    "image/Рисунок3.jpg",
+    "image/Рисунок4.png",
+    "image/Рисунок5.png",
+    "image/Рисунок6.jpg",
+    "image/Рисунок7.jpg",
+    "image/Рисунок8.jpg",
+    "image/Рисунок9.jpg",
+    "image/Рисунок10.jpg",
+    "image/Рисунок11.jpg",
+    "image/Рисунок12.jpg",
+    "image/Рисунок13.jpg",
+    "image/Рисунок14.jpg",
+    "image/Рисунок15.jpg",
+    "image/Рисунок16.jpg",
+    "image/Рисунок17.jpg",
+    "image/Рисунок18.jpg",
+    "image/Рисунок19.jpg",
+    "image/Рисунок20.jpg",
+    "image/Рисунок21jpg.jpg",
+    "image/Рисунок22.jpg",
+    "image/Рисунок23.jpg",
+    "image/Рисунок24.jpg",
+    "image/Рисунок25.jpg",
+    "image/Рисунок26.jpg",
+    "image/Рисунок27.jpg",
+    "image/Рисунок28.jpg",
+    "image/Рисунок29.jpg",
+    "image/Рисунок30.jpg",
+    "image/Рисунок31.jpg",
+    "image/Рисунок32.jpg",
+    "image/Рисунок33.jpg",
+    "image/Рисунок34.jpg",
+    "image/Рисунок35.jpg",
+    "image/Рисунок36.jpg",
+    "image/Рисунок37.jpg",
+    "image/Рисунок38.jpg",
+    "image/Рисунок39.jpg",
+    "image/Рисунок40.jpg",
+    "image/Рисунок41.jpg",
+    "image/Рисунок42.jpg",
+    "image/Рисунок43.jpg",
+    "image/Рисунок44.jpg",
+    "image/Рисунок45.jpg",
+    "image/Рисунок46.jpg",
+    "image/Рисунок47.jpg",
+    "image/Рисунок48.jpg",
+    "image/Рисунок49.jpg",
+    "image/Рисунок50.jpg",
+    "image/Рисунок51.jpg",
+    "image/Рисунок52.jpg",
+    "image/Рисунок53.jpg",
+    "image/Рисунок54.jpg",
+    "image/Рисунок55.jpg",
+    "image/Рисунок56.jpg",
+    "image/Рисунок57.jpg",
+    "image/Рисунок58.jpg",
+    "image/Рисунок59.jpg",
+    "image/Рисунок60.jpg",
+    "image/Рисунок61.jpg",
+    "image/Рисунок62.jpg",
+    "image/Рисунок63.jpg",
+    "image/Рисунок64.jpg",
+    "image/Рисунок65.jpg",
+    "image/Рисунок66.jpg",
+    "Photo/1.jpg",
+    "Photo/2.jpg",
+    "Photo/3.png",
+    "Photo/4.png",
+    "Photo/5.png",
+    "Photo/6.png",
+    "Photo/7.png",
+    "Photo/8.png",
+    "Photo/9.png",
+    "Photo/10.png",
+    "Глаз человека.md",
+    "Новый текстовый документ.md",
+    "Pasted image 20240404115935.png",
+    "Pasted image 20240404120056.png",
+    "Pasted image 20240404121214.png",
+    "README.md",
+    "lib/media/рисунок55.jpg",
+    "lib/media/рисунок58.jpg",
+    "lib/media/рисунок59.jpg",
+    "lib/media/рисунок60.jpg",
+    "lib/media/рисунок61.jpg",
+    "lib/media/рисунок54.jpg",
+    "lib/media/рисунок56.jpg",
+    "lib/media/рисунок57.jpg",
+    "lib/media/4.png",
+    "lib/media/рисунок22.jpg",
+    "lib/media/рисунок23.jpg",
+    "lib/media/рисунок19.jpg",
+    "lib/media/рисунок20.jpg",
+    "lib/media/рисунок21jpg.jpg",
+    "lib/media/рисунок16.jpg",
+    "lib/media/рисунок17.jpg",
+    "lib/media/рисунок18.jpg",
+    "lib/media/6.png",
+    "lib/media/рисунок62.jpg",
+    "lib/media/рисунок64.jpg",
+    "lib/media/рисунок66.jpg",
+    "lib/media/рисунок65.jpg",
+    "lib/media/10.png",
+    "lib/media/рисунок3.jpg",
+    "lib/media/рисунок4.png",
+    "lib/media/рисунок5.png",
+    "lib/media/рисунок6.jpg",
+    "lib/media/рисунок7.jpg",
+    "lib/media/рисунок8.jpg",
+    "lib/media/рисунок9.jpg",
+    "lib/media/рисунок10.jpg",
+    "lib/media/8.png",
+    "lib/media/рисунок2.jpg",
+    "lib/media/рисунок13.jpg",
+    "lib/media/рисунок14.jpg",
+    "lib/media/рисунок11.jpg",
+    "lib/media/рисунок12.jpg",
+    "lib/media/рисунок15.jpg",
+    "lib/media/9.png",
+    "lib/media/рисунок1.png",
+    "lib/media/7.png",
+    "lib/media/рисунок53.jpg",
+    "lib/media/рисунок50.jpg",
+    "lib/media/рисунок51.jpg",
+    "lib/media/рисунок52.jpg",
+    "lib/media/рисунок42.jpg",
+    "lib/media/рисунок43.jpg",
+    "lib/media/рисунок44.jpg",
+    "lib/media/рисунок39.jpg",
+    "lib/media/рисунок40.jpg",
+    "lib/media/рисунок41.jpg",
+    "lib/media/рисунок48.jpg",
+    "lib/media/рисунок45.jpg",
+    "lib/media/рисунок46.jpg",
+    "lib/media/рисунок47.jpg",
+    "lib/media/рисунок49.jpg",
+    "lib/media/2.jpg",
+    "lib/media/рисунок27.jpg",
+    "lib/media/рисунок24.jpg",
+    "lib/media/рисунок25.jpg",
+    "lib/media/рисунок28.jpg",
+    "lib/media/рисунок29.jpg",
+    "lib/media/рисунок35.jpg",
+    "lib/media/рисунок36.jpg",
+    "lib/media/рисунок37.jpg",
+    "lib/media/рисунок38.jpg",
+    "lib/media/рисунок30.jpg",
+    "lib/media/рисунок31.jpg",
+    "lib/media/рисунок32.jpg",
+    "lib/media/рисунок33.jpg",
+    "lib/media/рисунок34.jpg",
+    "lib/media/5.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Глаз человека/Аккомодация.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5817,
+      "exportedPath": "глаз-человека/аккомодация.html",
+      "dependencies": [
+        "lib/media/рисунок55.jpg"
+      ]
+    },
+    "Глаз человека/Близорукость.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3851,
+      "exportedPath": "глаз-человека/близорукость.html",
+      "dependencies": [
+        "lib/media/рисунок58.jpg",
+        "lib/media/рисунок59.jpg"
+      ]
+    },
+    "Глаз человека/Дальнозоркость.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2778,
+      "exportedPath": "глаз-человека/дальнозоркость.html",
+      "dependencies": [
+        "lib/media/рисунок60.jpg",
+        "lib/media/рисунок61.jpg"
+      ]
+    },
+    "Глаз человека/Расстояние наилучшего зрения.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2059,
+      "exportedPath": "глаз-человека/расстояние-наилучшего-зрения.html",
+      "dependencies": []
+    },
+    "Глаз человека/Строение глаза.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4376,
+      "exportedPath": "глаз-человека/строение-глаза.html",
+      "dependencies": [
+        "lib/media/рисунок54.jpg"
+      ]
+    },
+    "Глаз человека/Угол зрения.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4077,
+      "exportedPath": "глаз-человека/угол-зрения.html",
+      "dependencies": [
+        "lib/media/рисунок56.jpg",
+        "lib/media/рисунок57.jpg"
+      ]
+    },
+    "Глаз человека/README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1266,
+      "exportedPath": "глаз-человека/readme.html",
+      "dependencies": [
+        "lib/media/4.png"
+      ]
+    },
+    "Линзы. Ход лучей/Виды собирающих и рассеивающих линз.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3091,
+      "exportedPath": "линзы.-ход-лучей/виды-собирающих-и-рассеивающих-линз.html",
+      "dependencies": [
+        "lib/media/рисунок22.jpg",
+        "lib/media/рисунок23.jpg"
+      ]
+    },
+    "Линзы. Ход лучей/Двояковогнутая линза.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4154,
+      "exportedPath": "линзы.-ход-лучей/двояковогнутая-линза.html",
+      "dependencies": [
+        "lib/media/рисунок19.jpg",
+        "lib/media/рисунок20.jpg",
+        "lib/media/рисунок21jpg.jpg"
+      ]
+    },
+    "Линзы. Ход лучей/Двояковыпуклая линза.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 6076,
+      "exportedPath": "линзы.-ход-лучей/двояковыпуклая-линза.html",
+      "dependencies": [
+        "lib/media/рисунок16.jpg",
+        "lib/media/рисунок17.jpg",
+        "lib/media/рисунок18.jpg"
+      ]
+    },
+    "Линзы. Ход лучей/README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1482,
+      "exportedPath": "линзы.-ход-лучей/readme.html",
+      "dependencies": [
+        "lib/media/6.png"
+      ]
+    },
+    "Оптические приборы/Лупа.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4647,
+      "exportedPath": "оптические-приборы/лупа.html",
+      "dependencies": [
+        "lib/media/рисунок62.jpg"
+      ]
+    },
+    "Оптические приборы/Микроскоп.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 6822,
+      "exportedPath": "оптические-приборы/микроскоп.html",
+      "dependencies": [
+        "lib/media/рисунок64.jpg"
+      ]
+    },
+    "Оптические приборы/Невооружённый глаз.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2444,
+      "exportedPath": "оптические-приборы/невооружённый-глаз.html",
+      "dependencies": [
+        "lib/media/рисунок62.jpg"
+      ]
+    },
+    "Оптические приборы/Труба Галилея.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2784,
+      "exportedPath": "оптические-приборы/труба-галилея.html",
+      "dependencies": [
+        "lib/media/рисунок66.jpg"
+      ]
+    },
+    "Оптические приборы/Труба Кеплера.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3540,
+      "exportedPath": "оптические-приборы/труба-кеплера.html",
+      "dependencies": [
+        "lib/media/рисунок65.jpg"
+      ]
+    },
+    "Оптические приборы/README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2035,
+      "exportedPath": "оптические-приборы/readme.html",
+      "dependencies": [
+        "lib/media/10.png"
+      ]
+    },
+    "Отражение света/Закон отражения.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5992,
+      "exportedPath": "отражение-света/закон-отражения.html",
+      "dependencies": [
+        "lib/media/рисунок3.jpg",
+        "lib/media/рисунок4.png",
+        "lib/media/рисунок5.png"
+      ]
+    },
+    "Отражение света/Плоское зеркало.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5460,
+      "exportedPath": "отражение-света/плоское-зеркало.html",
+      "dependencies": [
+        "lib/media/рисунок6.jpg",
+        "lib/media/рисунок7.jpg",
+        "lib/media/рисунок8.jpg",
+        "lib/media/рисунок9.jpg",
+        "lib/media/рисунок10.jpg"
+      ]
+    },
+    "Отражение света/README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1475,
+      "exportedPath": "отражение-света/readme.html",
+      "dependencies": [
+        "lib/media/8.png",
+        "lib/media/рисунок2.jpg"
+      ]
+    },
+    "Преломление света/Закон преломления (общий случай).md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3862,
+      "exportedPath": "преломление-света/закон-преломления-(общий-случай).html",
+      "dependencies": [
+        "lib/media/рисунок13.jpg",
+        "lib/media/рисунок14.jpg"
+      ]
+    },
+    "Преломление света/Закон преломления (частный случай).md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4841,
+      "exportedPath": "преломление-света/закон-преломления-(частный-случай).html",
+      "dependencies": [
+        "lib/media/рисунок11.jpg"
+      ]
+    },
+    "Преломление света/Обратимость световых лучей.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2937,
+      "exportedPath": "преломление-света/обратимость-световых-лучей.html",
+      "dependencies": [
+        "lib/media/рисунок12.jpg"
+      ]
+    },
+    "Преломление света/Полное внутреннее отражение.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5757,
+      "exportedPath": "преломление-света/полное-внутреннее-отражение.html",
+      "dependencies": [
+        "lib/media/рисунок15.jpg"
+      ]
+    },
+    "Преломление света/README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1694,
+      "exportedPath": "преломление-света/readme.html",
+      "dependencies": [
+        "lib/media/9.png"
+      ]
+    },
+    "Световые лучи/Геометрическая тень.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2314,
+      "exportedPath": "световые-лучи/геометрическая-тень.html",
+      "dependencies": [
+        "lib/media/рисунок1.png"
+      ]
+    },
+    "Световые лучи/Законы геометрической оптики.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 6190,
+      "exportedPath": "световые-лучи/законы-геометрической-оптики.html",
+      "dependencies": []
+    },
+    "Световые лучи/README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1733,
+      "exportedPath": "световые-лучи/readme.html",
+      "dependencies": [
+        "lib/media/7.png"
+      ]
+    },
+    "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение предмета.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 884,
+      "exportedPath": "тонкие-линзы.-построение-изображений/рассеивающая-линза-мнимое-изображение-предмета.html",
+      "dependencies": [
+        "lib/media/рисунок53.jpg"
+      ]
+    },
+    "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение точки.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5191,
+      "exportedPath": "тонкие-линзы.-построение-изображений/рассеивающая-линза-мнимое-изображение-точки.html",
+      "dependencies": [
+        "lib/media/рисунок50.jpg",
+        "lib/media/рисунок51.jpg",
+        "lib/media/рисунок52.jpg"
+      ]
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение предмета.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4354,
+      "exportedPath": "тонкие-линзы.-построение-изображений/собирающая-линза-действительное-изображение-предмета.html",
+      "dependencies": [
+        "lib/media/рисунок42.jpg",
+        "lib/media/рисунок43.jpg",
+        "lib/media/рисунок44.jpg"
+      ]
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение точки.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 9398,
+      "exportedPath": "тонкие-линзы.-построение-изображений/собирающая-линза-действительное-изображение-точки.html",
+      "dependencies": [
+        "lib/media/рисунок39.jpg",
+        "lib/media/рисунок40.jpg",
+        "lib/media/рисунок41.jpg"
+      ]
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение предмета.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1445,
+      "exportedPath": "тонкие-линзы.-построение-изображений/собирающая-линза-мнимое-изображение-предмета.html",
+      "dependencies": [
+        "lib/media/рисунок48.jpg"
+      ]
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение точки.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4679,
+      "exportedPath": "тонкие-линзы.-построение-изображений/собирающая-линза-мнимое-изображение-точки.html",
+      "dependencies": [
+        "lib/media/рисунок45.jpg",
+        "lib/media/рисунок46.jpg",
+        "lib/media/рисунок47.jpg"
+      ]
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза предмет в фокальной плоскости.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2493,
+      "exportedPath": "тонкие-линзы.-построение-изображений/собирающая-линза-предмет-в-фокальной-плоскости.html",
+      "dependencies": [
+        "lib/media/рисунок49.jpg"
+      ]
+    },
+    "Тонкие линзы. Построение изображений/README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4790,
+      "exportedPath": "тонкие-линзы.-построение-изображений/readme.html",
+      "dependencies": [
+        "lib/media/2.jpg"
+      ]
+    },
+    "Тонкие линзы. Ход лучей/Оптический центр и фокальная плоскость.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4759,
+      "exportedPath": "тонкие-линзы.-ход-лучей/оптический-центр-и-фокальная-плоскость.html",
+      "dependencies": [
+        "lib/media/рисунок27.jpg"
+      ]
+    },
+    "Тонкие линзы. Ход лучей/Понятие тонкой линзы.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3509,
+      "exportedPath": "тонкие-линзы.-ход-лучей/понятие-тонкой-линзы.html",
+      "dependencies": [
+        "lib/media/рисунок24.jpg",
+        "lib/media/рисунок25.jpg"
+      ]
+    },
+    "Тонкие линзы. Ход лучей/Ход луча через оптический центр.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3049,
+      "exportedPath": "тонкие-линзы.-ход-лучей/ход-луча-через-оптический-центр.html",
+      "dependencies": [
+        "lib/media/рисунок28.jpg",
+        "lib/media/рисунок29.jpg"
+      ]
+    },
+    "Тонкие линзы. Ход лучей/Ход лучей в рассеивающей линзе.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3594,
+      "exportedPath": "тонкие-линзы.-ход-лучей/ход-лучей-в-рассеивающей-линзе.html",
+      "dependencies": [
+        "lib/media/рисунок35.jpg",
+        "lib/media/рисунок36.jpg",
+        "lib/media/рисунок37.jpg",
+        "lib/media/рисунок38.jpg"
+      ]
+    },
+    "Тонкие линзы. Ход лучей/Ход лучей в собирающей линзе.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3651,
+      "exportedPath": "тонкие-линзы.-ход-лучей/ход-лучей-в-собирающей-линзе.html",
+      "dependencies": [
+        "lib/media/рисунок30.jpg",
+        "lib/media/рисунок31.jpg",
+        "lib/media/рисунок32.jpg",
+        "lib/media/рисунок33.jpg",
+        "lib/media/рисунок34.jpg"
+      ]
+    },
+    "Тонкие линзы. Ход лучей/README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1529,
+      "exportedPath": "тонкие-линзы.-ход-лучей/readme.html",
+      "dependencies": [
+        "lib/media/5.png"
+      ]
+    },
+    "image/Рисунок1.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 91790,
+      "exportedPath": "image/рисунок1.png",
+      "dependencies": []
+    },
+    "image/Рисунок2.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 37545,
+      "exportedPath": "image/рисунок2.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок3.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 34406,
+      "exportedPath": "image/рисунок3.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок4.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24507,
+      "exportedPath": "image/рисунок4.png",
+      "dependencies": []
+    },
+    "image/Рисунок5.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 22300,
+      "exportedPath": "image/рисунок5.png",
+      "dependencies": []
+    },
+    "image/Рисунок6.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 42399,
+      "exportedPath": "image/рисунок6.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок7.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 39448,
+      "exportedPath": "image/рисунок7.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок8.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 36206,
+      "exportedPath": "image/рисунок8.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок9.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24237,
+      "exportedPath": "image/рисунок9.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок10.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 45711,
+      "exportedPath": "image/рисунок10.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок11.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 30145,
+      "exportedPath": "image/рисунок11.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок12.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 30893,
+      "exportedPath": "image/рисунок12.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок13.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 28066,
+      "exportedPath": "image/рисунок13.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок14.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 28913,
+      "exportedPath": "image/рисунок14.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок15.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 54527,
+      "exportedPath": "image/рисунок15.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок16.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 45094,
+      "exportedPath": "image/рисунок16.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок17.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 61901,
+      "exportedPath": "image/рисунок17.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок18.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 53478,
+      "exportedPath": "image/рисунок18.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок19.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 49079,
+      "exportedPath": "image/рисунок19.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок20.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 80470,
+      "exportedPath": "image/рисунок20.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок21jpg.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 58646,
+      "exportedPath": "image/рисунок21jpg.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок22.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29610,
+      "exportedPath": "image/рисунок22.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок23.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 30111,
+      "exportedPath": "image/рисунок23.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок24.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29532,
+      "exportedPath": "image/рисунок24.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок25.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 14982,
+      "exportedPath": "image/рисунок25.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок26.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 16227,
+      "exportedPath": "image/рисунок26.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок27.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29784,
+      "exportedPath": "image/рисунок27.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок28.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29096,
+      "exportedPath": "image/рисунок28.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок29.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 23250,
+      "exportedPath": "image/рисунок29.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок30.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29697,
+      "exportedPath": "image/рисунок30.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок31.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 27147,
+      "exportedPath": "image/рисунок31.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок32.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 35720,
+      "exportedPath": "image/рисунок32.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок33.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 16458,
+      "exportedPath": "image/рисунок33.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок34.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 21818,
+      "exportedPath": "image/рисунок34.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок35.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 35751,
+      "exportedPath": "image/рисунок35.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок36.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 53751,
+      "exportedPath": "image/рисунок36.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок37.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 19970,
+      "exportedPath": "image/рисунок37.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок38.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24875,
+      "exportedPath": "image/рисунок38.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок39.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 51418,
+      "exportedPath": "image/рисунок39.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок40.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 38293,
+      "exportedPath": "image/рисунок40.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок41.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 30661,
+      "exportedPath": "image/рисунок41.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок42.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 37419,
+      "exportedPath": "image/рисунок42.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок43.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29405,
+      "exportedPath": "image/рисунок43.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок44.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 33477,
+      "exportedPath": "image/рисунок44.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок45.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 47206,
+      "exportedPath": "image/рисунок45.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок46.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 43759,
+      "exportedPath": "image/рисунок46.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок47.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 34566,
+      "exportedPath": "image/рисунок47.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок48.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 41091,
+      "exportedPath": "image/рисунок48.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок49.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 32254,
+      "exportedPath": "image/рисунок49.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок50.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 44590,
+      "exportedPath": "image/рисунок50.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок51.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 31417,
+      "exportedPath": "image/рисунок51.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок52.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 27230,
+      "exportedPath": "image/рисунок52.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок53.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 33043,
+      "exportedPath": "image/рисунок53.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок54.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 21442,
+      "exportedPath": "image/рисунок54.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок55.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 47678,
+      "exportedPath": "image/рисунок55.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок56.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24998,
+      "exportedPath": "image/рисунок56.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок57.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 21744,
+      "exportedPath": "image/рисунок57.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок58.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 23295,
+      "exportedPath": "image/рисунок58.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок59.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 31084,
+      "exportedPath": "image/рисунок59.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок60.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24616,
+      "exportedPath": "image/рисунок60.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок61.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 33893,
+      "exportedPath": "image/рисунок61.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок62.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 31573,
+      "exportedPath": "image/рисунок62.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок63.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 35374,
+      "exportedPath": "image/рисунок63.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок64.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 48619,
+      "exportedPath": "image/рисунок64.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок65.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 43449,
+      "exportedPath": "image/рисунок65.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок66.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 44283,
+      "exportedPath": "image/рисунок66.jpg",
+      "dependencies": []
+    },
+    "Photo/1.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 86571,
+      "exportedPath": "photo/1.jpg",
+      "dependencies": []
+    },
+    "Photo/2.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 131559,
+      "exportedPath": "photo/2.jpg",
+      "dependencies": []
+    },
+    "Photo/3.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2858172,
+      "exportedPath": "photo/3.png",
+      "dependencies": []
+    },
+    "Photo/4.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4533929,
+      "exportedPath": "photo/4.png",
+      "dependencies": []
+    },
+    "Photo/5.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 487807,
+      "exportedPath": "photo/5.png",
+      "dependencies": []
+    },
+    "Photo/6.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 965304,
+      "exportedPath": "photo/6.png",
+      "dependencies": []
+    },
+    "Photo/7.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 798792,
+      "exportedPath": "photo/7.png",
+      "dependencies": []
+    },
+    "Photo/8.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1832177,
+      "exportedPath": "photo/8.png",
+      "dependencies": []
+    },
+    "Photo/9.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2088218,
+      "exportedPath": "photo/9.png",
+      "dependencies": []
+    },
+    "Photo/10.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1713469,
+      "exportedPath": "photo/10.png",
+      "dependencies": []
+    },
+    "Глаз человека.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 0,
+      "exportedPath": "глаз-человека.html",
+      "dependencies": []
+    },
+    "Новый текстовый документ.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 473,
+      "exportedPath": "новый-текстовый-документ.html",
+      "dependencies": [
+        "pasted-image-20240404115935.png",
+        "pasted-image-20240404120056.png",
+        "pasted-image-20240404121214.png"
+      ]
+    },
+    "Pasted image 20240404115935.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 26763,
+      "exportedPath": "pasted-image-20240404115935.png",
+      "dependencies": []
+    },
+    "Pasted image 20240404120056.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 93324,
+      "exportedPath": "pasted-image-20240404120056.png",
+      "dependencies": []
+    },
+    "Pasted image 20240404121214.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 114022,
+      "exportedPath": "pasted-image-20240404121214.png",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 9225,
+      "exportedPath": "readme.html",
+      "dependencies": [
+        "photo/3.png"
+      ]
+    },
+    "lib/media/рисунок55.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 47678,
+      "exportedPath": "lib/media/рисунок55.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок58.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 23295,
+      "exportedPath": "lib/media/рисунок58.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок59.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 31084,
+      "exportedPath": "lib/media/рисунок59.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок60.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24616,
+      "exportedPath": "lib/media/рисунок60.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок61.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 33893,
+      "exportedPath": "lib/media/рисунок61.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок54.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 21442,
+      "exportedPath": "lib/media/рисунок54.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок56.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24998,
+      "exportedPath": "lib/media/рисунок56.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок57.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 21744,
+      "exportedPath": "lib/media/рисунок57.jpg",
+      "dependencies": []
+    },
+    "lib/media/4.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4533929,
+      "exportedPath": "lib/media/4.png",
+      "dependencies": []
+    },
+    "lib/media/рисунок22.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29610,
+      "exportedPath": "lib/media/рисунок22.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок23.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 30111,
+      "exportedPath": "lib/media/рисунок23.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок19.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 49079,
+      "exportedPath": "lib/media/рисунок19.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок20.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 80470,
+      "exportedPath": "lib/media/рисунок20.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок21jpg.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 58646,
+      "exportedPath": "lib/media/рисунок21jpg.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок16.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 45094,
+      "exportedPath": "lib/media/рисунок16.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок17.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 61901,
+      "exportedPath": "lib/media/рисунок17.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок18.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 53478,
+      "exportedPath": "lib/media/рисунок18.jpg",
+      "dependencies": []
+    },
+    "lib/media/6.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 965304,
+      "exportedPath": "lib/media/6.png",
+      "dependencies": []
+    },
+    "lib/media/рисунок62.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 31573,
+      "exportedPath": "lib/media/рисунок62.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок64.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 48619,
+      "exportedPath": "lib/media/рисунок64.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок66.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 44283,
+      "exportedPath": "lib/media/рисунок66.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок65.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 43449,
+      "exportedPath": "lib/media/рисунок65.jpg",
+      "dependencies": []
+    },
+    "lib/media/10.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1713469,
+      "exportedPath": "lib/media/10.png",
+      "dependencies": []
+    },
+    "lib/media/рисунок3.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 34406,
+      "exportedPath": "lib/media/рисунок3.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок4.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24507,
+      "exportedPath": "lib/media/рисунок4.png",
+      "dependencies": []
+    },
+    "lib/media/рисунок5.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 22300,
+      "exportedPath": "lib/media/рисунок5.png",
+      "dependencies": []
+    },
+    "lib/media/рисунок6.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 42399,
+      "exportedPath": "lib/media/рисунок6.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок7.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 39448,
+      "exportedPath": "lib/media/рисунок7.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок8.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 36206,
+      "exportedPath": "lib/media/рисунок8.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок9.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24237,
+      "exportedPath": "lib/media/рисунок9.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок10.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 45711,
+      "exportedPath": "lib/media/рисунок10.jpg",
+      "dependencies": []
+    },
+    "lib/media/8.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1832177,
+      "exportedPath": "lib/media/8.png",
+      "dependencies": []
+    },
+    "lib/media/рисунок2.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 37545,
+      "exportedPath": "lib/media/рисунок2.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок13.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 28066,
+      "exportedPath": "lib/media/рисунок13.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок14.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 28913,
+      "exportedPath": "lib/media/рисунок14.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок11.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 30145,
+      "exportedPath": "lib/media/рисунок11.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок12.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 30893,
+      "exportedPath": "lib/media/рисунок12.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок15.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 54527,
+      "exportedPath": "lib/media/рисунок15.jpg",
+      "dependencies": []
+    },
+    "lib/media/9.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2088218,
+      "exportedPath": "lib/media/9.png",
+      "dependencies": []
+    },
+    "lib/media/рисунок1.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 91790,
+      "exportedPath": "lib/media/рисунок1.png",
+      "dependencies": []
+    },
+    "lib/media/7.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 798792,
+      "exportedPath": "lib/media/7.png",
+      "dependencies": []
+    },
+    "lib/media/рисунок53.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 33043,
+      "exportedPath": "lib/media/рисунок53.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок50.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 44590,
+      "exportedPath": "lib/media/рисунок50.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок51.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 31417,
+      "exportedPath": "lib/media/рисунок51.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок52.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 27230,
+      "exportedPath": "lib/media/рисунок52.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок42.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 37419,
+      "exportedPath": "lib/media/рисунок42.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок43.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29405,
+      "exportedPath": "lib/media/рисунок43.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок44.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 33477,
+      "exportedPath": "lib/media/рисунок44.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок39.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 51418,
+      "exportedPath": "lib/media/рисунок39.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок40.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 38293,
+      "exportedPath": "lib/media/рисунок40.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок41.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 30661,
+      "exportedPath": "lib/media/рисунок41.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок48.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 41091,
+      "exportedPath": "lib/media/рисунок48.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок45.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 47206,
+      "exportedPath": "lib/media/рисунок45.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок46.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 43759,
+      "exportedPath": "lib/media/рисунок46.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок47.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 34566,
+      "exportedPath": "lib/media/рисунок47.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок49.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 32254,
+      "exportedPath": "lib/media/рисунок49.jpg",
+      "dependencies": []
+    },
+    "lib/media/2.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 131559,
+      "exportedPath": "lib/media/2.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок27.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29784,
+      "exportedPath": "lib/media/рисунок27.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок24.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29532,
+      "exportedPath": "lib/media/рисунок24.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок25.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 14982,
+      "exportedPath": "lib/media/рисунок25.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок28.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29096,
+      "exportedPath": "lib/media/рисунок28.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок29.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 23250,
+      "exportedPath": "lib/media/рисунок29.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок35.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 35751,
+      "exportedPath": "lib/media/рисунок35.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок36.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 53751,
+      "exportedPath": "lib/media/рисунок36.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок37.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 19970,
+      "exportedPath": "lib/media/рисунок37.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок38.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 24875,
+      "exportedPath": "lib/media/рисунок38.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок30.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29697,
+      "exportedPath": "lib/media/рисунок30.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок31.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 27147,
+      "exportedPath": "lib/media/рисунок31.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок32.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 35720,
+      "exportedPath": "lib/media/рисунок32.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок33.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 16458,
+      "exportedPath": "lib/media/рисунок33.jpg",
+      "dependencies": []
+    },
+    "lib/media/рисунок34.jpg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 21818,
+      "exportedPath": "lib/media/рисунок34.jpg",
+      "dependencies": []
+    },
+    "lib/media/5.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 487807,
+      "exportedPath": "lib/media/5.png",
+      "dependencies": []
+    },
+    "pasted-image-20240404115935.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 26763,
+      "exportedPath": "pasted-image-20240404115935.png",
+      "dependencies": []
+    },
+    "pasted-image-20240404120056.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 93324,
+      "exportedPath": "pasted-image-20240404120056.png",
+      "dependencies": []
+    },
+    "pasted-image-20240404121214.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 114022,
+      "exportedPath": "pasted-image-20240404121214.png",
+      "dependencies": []
+    },
+    "photo/3.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 2858172,
+      "exportedPath": "photo/3.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 50662,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 4892,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 157292,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1713432976245,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
